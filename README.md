@@ -11,7 +11,7 @@
 
 ## Interest 👀
 - Development of risk prediction models
-- Optimization algorithms using ML/DL
+- Optimization ML/DL algorithms
 - Bioinformatics & Healthcare
 
 
