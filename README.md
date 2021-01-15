@@ -1,5 +1,5 @@
 ## Work experience 🤹‍♀️
-- (21.02 - )           SK holdings C&C
+- (21.01 - )           SK holdings C&C
 - (17.11 - 19.02)  Samsung Genome Institute, Data mining team
 
 
