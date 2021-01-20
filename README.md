@@ -1,12 +1,12 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:work.wonniey@gmail.com)](mailto:work.wonniey@gmail.com)
 
 ## Work experience 🤹‍♀️
-- (21.01 - )           SK holdings C&C
-- (17.11 - 19.02)  Samsung Genome Institute, Data mining team
+- SK holdings C&C
+- Samsung Genome Institute, Data mining team
 
 
 ## Education
-- (14.08 - 16.09) Seoul National University Graduate School, Department of Biomedical Sciences
+- Seoul National University Graduate School, Department of Biomedical Sciences
 
 
 ## Interest 👀
