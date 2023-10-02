@@ -13,6 +13,7 @@
 - Development of risk prediction models
 - Optimization ML/DL algorithms
 - Bioinformatics & Healthcare
+- Generatvie AI/Prompt Engineering
 
 
 ## Publications
